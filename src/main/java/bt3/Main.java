@@ -13,7 +13,7 @@ public class Main {
         hinhHoc3DList.add(new HinhLapPhuong(5));
         hinhHoc3DList.add(new HinhCau(7));
         hinhHoc3DList.add(new HinhLapPhuong(8));
-        hinhHoc3DList.add(new HinhTru(5,8));
+
 
         System.out.println(hinhHoc3DList);
         // b. Hinh co the tich be nhat

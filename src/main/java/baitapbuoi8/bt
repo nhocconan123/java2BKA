@@ -1,0 +1,23 @@
+bt1: tao 1 map luu tru thong tin, danh ba nguoi dung.theo
+quy dinh Ho ten-sdt (hoac nguoc lai)
+trong do sdt la duy nhat.
+
+viet chuong trinh co cacs chuc nang sau:
+-- qua ly danh ba----
+1. them danh ba
+2. cap nhat danh ba
+3. xoa danh ba theo sdt
+4. xam toan bo danh ba
+5 thoat
+
+
+___________________________________________________________________
+
+Tạo 1 functional interface có 1 phương thức,
+nhận tham số truyền vào là 1 chuỗi, giá trị trả về là int.
+
+- Tạo các biểu thức lambda thực hiện  các chức năng sau:
++ Đếm số kí tự của chuỗi.
++ Tính số từ trong chuỗi.
++ Đếm số từ 'a', 'A' trong chuỗi.
++ Đếm số kí tự được sử dụng trong chuỗi. (mỗi kí tự chỉ in 1 lần) VD: hello -> h,e, l, o -> 4 kí tự
